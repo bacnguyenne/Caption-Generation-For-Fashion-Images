@@ -11,7 +11,7 @@ The project uses the **Fashion Captioning Dataset (FACAD)**, which contains:
 - **20,000** images used for training and testing
 
 ### Example Input:
-![Example Image](\images\sampleInput.png)
+![Example Image](images/sampleInput.png)
 
 ## Methodology
 
@@ -26,12 +26,12 @@ Evaluation metrics used:
 - **METEOR**
 
 ## Results
-![Result Image](\images\result1.png)
+![Result Image](images/result1.png)
 
 Best model: **BEIT-GPT2**  
 Achieved highest performance across BLEU, METEOR, and ROUGE scores.
 
-![Result Image](\images\result2.png)
+![Result Image](/images/result2.png)
 
 ## Project Structure
 
@@ -60,6 +60,5 @@ Achieved highest performance across BLEU, METEOR, and ROUGE scores.
    Compare generated captions with actual captions.
 
 ## Example Output
-### Example Input:
-![Example Image](\images\samplePredict.png)
+![Example Image](images/samplePredict.png)
 
